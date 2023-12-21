@@ -16,7 +16,7 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 ```
 
 [![Instagram](https://img.shields.io/badge/IG-%40smartvulpe-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/smartvulpe)
-[![TikTok](https://img.shields.io/badge/IG-%40smartvulpe-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@smartvulpe)
+[![TikTok](https://img.shields.io/badge/TK-%40smartvulpe-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@smartvulpe)
 
 ## Stats :
 ![SmartVulpe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartFuchs&show_icons=true&theme=shadow_red)
