@@ -22,6 +22,6 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 
 ### Don't Forgot to share with Your Friends
 
-## The new Update get will soon stay updated
+### The new Update get will soon stay updated
 
 ### Thank you..!!
