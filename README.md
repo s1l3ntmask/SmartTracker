@@ -20,7 +20,7 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 ## Stats :
 ![SmartVulpe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartFuchs&show_icons=true&theme=shadow_red)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartFuchs&theme=radicalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartFuchs&theme=shadow_red)
 
 ### Don't Forgot to share with Your Friends
 
