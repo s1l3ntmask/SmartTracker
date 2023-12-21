@@ -3,11 +3,11 @@
 ## Installation Kali :
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/htr-tech/track-ip.git`
-* `cd track-ip`
+* `git clone https://github.com/SmartFuchs/SmartTracker.git`
+* `cd SmartTracker`
 
 ## Run :
-* `bash trackip`
+* `bash smarttracker`
 
 
 ## Single Command :
