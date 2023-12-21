@@ -16,7 +16,7 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 ```
 
 [![Instagram](https://img.shields.io/badge/IG-%40smartvulpe-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/smartvulpe)
-<a href=”https://www.linkedin.com/in/alexei-odainic-506a64265/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Alexei Odainic | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/alexei-odainic-506a64265/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 ## Stats :
 ![SmartVulpe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartFuchs&show_icons=true&theme=shadow_red)
