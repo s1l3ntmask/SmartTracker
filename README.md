@@ -7,7 +7,7 @@
 * `cd SmartTracker`
 
 ## Run :
-* `bash smarttracker`
+* `bash smarttracker.sh`
 
 
 ## Single Command :
@@ -19,6 +19,7 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 
 ## Stats :
 ![SmartVulpe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartFuchs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartFuchs&layout=compact)
 
 ### Don't Forgot to share with Your Friends
 
