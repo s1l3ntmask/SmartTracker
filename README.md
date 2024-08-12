@@ -18,9 +18,9 @@
 apt update ; apt install git curl -y ; git clone git://github.com/s1l3ntmask/SmartTracker.git ; cd SmartTracker ; bash smarttracker.sh
 ```
 ## Follow us :
-[![Instagram](https://img.shields.io/badge/IG-%40smartvulpe-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/s1l3ntmask)
-[![TikTok](https://img.shields.io/badge/TK-%40smartvulpe-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@s1l3ntmask)
-[![Facebook](https://img.shields.io/badge/FB-%40smartvulpe-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/s1l3ntmask)
+[![Instagram](https://img.shields.io/badge/IG-%40s1l3ntmask-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/s1l3ntmask)
+[![TikTok](https://img.shields.io/badge/TK-%40s1l3ntmask-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@s1l3ntmask)
+[![Facebook](https://img.shields.io/badge/FB-%40s1l3ntmask-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/s1l3ntmask)
 
 ## Stats :
 ![SmartVulpe's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1l3ntmask&show_icons=true&theme=shadow_red)
