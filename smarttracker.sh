@@ -15,7 +15,7 @@ ${Red}      ) || |   | || (   ) || (\ (      | |   ${Black}   | |   | (\ (   | (
 ${Red}/\____) || )   ( || )   ( || ) \ \__   | |   ${Black}   | |   | ) \ \__| )   ( || (____/\|  /  \ \| (____/\| ) \ \__
 ${Red}\_______)|/     \||/     \||/   \__/   )_(   ${Black}   )_(   |/   \__/|/     \|(_______/|_/    \/(_______/|/   \__/
                                                                                                             ${clear}
-  Created By SmartFuchs                                                                                                            "
+  Created By s1l3ntmask (dont forgett to follow me on insta)                                                                                                           "
 }
 
 
